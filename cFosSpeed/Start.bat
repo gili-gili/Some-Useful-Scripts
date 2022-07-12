@@ -3,7 +3,7 @@ set /a COUNT=1
 echo =============================================
 echo cFosSpeed Traffic Shaping Calibration Script 
 echo Powered by Speedtest, written by gili-gili
-echo https://github.com/gili-gili/Some-Useful-Scripts/cFosSpeed/
+echo https://github.com/gili-gili/Some-Useful-Scripts/tree/main/cFosSpeed/
 echo =============================================
 set /p TARGET=How many rounds? 
 :run
